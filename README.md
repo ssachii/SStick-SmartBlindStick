@@ -27,7 +27,7 @@ Activated with a touch, this stick senses danger—buzzes, vibrates, and lights 
 
 ## 🔌 Wiring Diagram
 
-![wiring diagram](diagrams/wiring_diagram.png)
+![wiring diagram]()
 
 ---
 
@@ -66,7 +66,13 @@ SStick-SmartBlindStick/
 - Accelerometer (ADXL345)  
 - Coin-Type Vibration Motor  
 - Round Toggle Switch  
-- Battery Pack  
+- Battery Pack
+
+### ✏️ Sketch
+
+![sketch](diagrams/wiring_diagram.pdf)
+
+--- 
 
 ### ⚙️ Setup Instructions
 1. Connect components as per the wiring diagram  
