@@ -21,7 +21,7 @@ Activated with a touch, this stick senses danger—buzzes, vibrates, and lights 
 
 ## 🧠 Block Diagram
 
-![block diagram](images/block_diagram.png)
+![block diagram](diagrams/block_diagram.png)
 
 ---
 
