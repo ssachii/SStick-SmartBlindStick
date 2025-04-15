@@ -27,7 +27,7 @@ Activated with a touch, this stick senses danger—buzzes, vibrates, and lights 
 
 ## 🔌 Wiring Diagram
 
-![wiring diagram]()
+![wiring diagram](diagrams/wiring_diagram.png)
 
 ---
 
