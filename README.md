@@ -27,7 +27,7 @@ Activated with a touch, this stick senses danger—buzzes, vibrates, and lights 
 
 ## 🔌 Wiring Diagram
 
-![wiring diagram](images/wiring_diagram.png)
+![wiring diagram](diagrams/wiring_diagram.png)
 
 ---
 
@@ -53,25 +53,27 @@ SStick-SmartBlindStick/
 ---
 
 ## How to Use
-🛠️ Hardware Required
-Arduino Uno/Nano
-Ultrasonic Sensor (HC-SR04)
-PIR Motion Sensor (HC-SR501)/Mini Infrared PIR Motion Sensor(HC-SR505)
-Capacitive Touch Sensor (TTP223 x2)
-Soil Moisture Sensor Module (/any water sensor will do)
-  -> remove the probes and attact any conducting material suitable for your model (eg:screws)
-Passive Buzzer Module (Active-LOW)
-LED, 220ohm Resistor
-Accelerometer (ADXL345)
-Coin-Type Vibration Motor
-Round Toggle Switch
-Battery Pack
 
-⚙️ Setup Instructions
-- Connect components as per wiring diagram
-- Clone this repo and open in Arduino IDE
-- Install the Adafruit_ADXL345 library via Arduino Library Manager
-- Touch to activate. Let perception take over!
+### 🛠️ Hardware Required
+- Arduino Uno/Nano  
+- Ultrasonic Sensor (HC-SR04)  
+- PIR Motion Sensor (HC-SR501) / Mini Infrared PIR Motion Sensor (HC-SR505)  
+- Capacitive Touch Sensor (TTP223 x2)  
+- Soil Moisture Sensor Module (or any water sensor)  
+  → *Remove the probes and attach any conducting material suitable for your model (e.g., screws)*  
+- Passive Buzzer Module (Active-LOW)  
+- LED, 220Ω Resistor  
+- Accelerometer (ADXL345)  
+- Coin-Type Vibration Motor  
+- Round Toggle Switch  
+- Battery Pack  
+
+### ⚙️ Setup Instructions
+1. Connect components as per the wiring diagram  
+2. Clone this repository and open it in Arduino IDE  
+3. Install the `Adafruit_ADXL345` library via Arduino Library Manager  
+4. Touch to activate — let perception take over!
+
 
 ---
 
