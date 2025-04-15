@@ -70,7 +70,7 @@ SStick-SmartBlindStick/
 
 ### ✏️ Sketch
 
-![sketch](diagrams/wiring_diagram.pdf)
+![sketch](diagrams/sketch.png)
 
 --- 
 
